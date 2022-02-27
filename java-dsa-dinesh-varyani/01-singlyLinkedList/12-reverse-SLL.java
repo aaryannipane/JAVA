@@ -1,4 +1,4 @@
-// delete last node in java
+// reverse SLL impoertant
 class SLL{
     private ListNode head;
 
@@ -10,6 +10,42 @@ class SLL{
             this.data = data;
             this.next = null;
         }
+    }
+
+    // reverse SLL algo
+    public ListNode reverse(){
+
+        if(head == null){
+            return null;
+        }
+
+        ListNode current = head;
+        ListNode previous = null;
+        ListNode next = null;
+
+        while(current != null){
+            next = current.next;
+            current.next = previous;
+            previous = current;
+            current = next;
+        }
+
+        return previous;
+    }
+
+    // method to search element in list
+    public Boolean search(int key){
+        ListNode current = head;
+        while(current != null){
+            
+            if(current.data == key){
+                return true;
+            }
+
+            current = current.next;
+        }
+
+        return false;
     }
 
     // method to insert node at end 
@@ -73,6 +109,8 @@ class SLL{
             previous.next = current.next;
             
         }
+
+
     }
 
     public void display(){
@@ -92,9 +130,10 @@ class SLL{
         sll.insertEnd(30);
         sll.insertEnd(100);
 
-        // sll.deleteFirst();
+        sll.display();
 
-        sll.deletePos(2);
+
+        ListNode reverseListHead = sll.reverse();
 
         sll.display();
 

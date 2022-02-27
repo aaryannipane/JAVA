@@ -1,4 +1,4 @@
-// delete last node in java
+// search element in list
 class SLL{
     private ListNode head;
 
@@ -10,6 +10,22 @@ class SLL{
             this.data = data;
             this.next = null;
         }
+    }
+
+
+    // method to search element in list
+    public Boolean search(int key){
+        ListNode current = head;
+        while(current != null){
+            
+            if(current.data == key){
+                return true;
+            }
+
+            current = current.next;
+        }
+
+        return false;
     }
 
     // method to insert node at end 
@@ -73,6 +89,8 @@ class SLL{
             previous.next = current.next;
             
         }
+
+
     }
 
     public void display(){
@@ -92,9 +110,15 @@ class SLL{
         sll.insertEnd(30);
         sll.insertEnd(100);
 
-        // sll.deleteFirst();
+        // search 100 element
+        if(sll.search(100)){
+            System.out.println("Key Found");
+        }
+        else{
+            System.out.println("Key Not Found");
+        }
 
-        sll.deletePos(2);
+
 
         sll.display();
 
