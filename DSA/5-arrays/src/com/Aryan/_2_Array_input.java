@@ -23,7 +23,7 @@ public class _2_Array_input {
         }
         System.out.println("\n");
 
-//        display in shorter method
+//        display in shorter method (FOR EACH LOOP)
         for(int num : arr){
             System.out.print(num + " ");  // here num is element of array
         }

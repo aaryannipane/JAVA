@@ -38,5 +38,11 @@ public class _1_Arrays {
         String []arr = new String[5];
         //[ref_var, ref_var, ref_var, ref_var, ref_var]
 
+
+        // FOR EACH LOOP
+        for (int num : nos) {
+            System.out.println(nos[num]);
+        }
+
     }
 }
