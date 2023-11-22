@@ -2,76 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cc54e8-96ea-427a-94ca-5def68d1fa01" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.idea/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_13_cyclic-sort/_13_cyclic-sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_14_strings_stringBuilder/_14_strings_stringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_15_patterns/_15_patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_16_rescursion/_16_rescursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_16_rescursion/src/_02_part/Q1_nto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/_17_maths.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_01_odd_even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_02_find_distinct_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_03_ith_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_04_set_ith_bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_05_reset_ith_bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_06_position_right_most_set_bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_07_find_distinct_element_thrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/__01__HCF_LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/_18_recursion-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q1_nto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q2_1ton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q3_factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q4_sumOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q5_sumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q6_reverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_19_recursion-3/_19_recursion-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_19_recursion-3/src/Q1_sorted_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_19_recursion-3/src/Q2_linear_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_20_recursion-4/_20_recursion-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_20_recursion-4/src/Q1_triangle01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_20_recursion-4/src/Q2_bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_20_recursion-4/src/Q3_selectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_21_merge-sort/_21_merge-sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_21_merge-sort/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_23_recursion_Subset_Subsequence_String_Questions/_23_recursion_Subset_Subsequence_String_Questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_23_recursion_Subset_Subsequence_String_Questions/src/Q1_skip_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/_23_recursion_Subset_Subsequence_String_Questions/src/Q2_skip_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/01-SLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/02-SLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/03-print-elements-SLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/04-find-length-SLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/05-insert-node-beginning.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/06-insert-node-end.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/07-insert-node-at-given-position.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/08-delete-first-node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/09-delete-last-node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/10-delete-node-at-given-position.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/11-search-element-in-SLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/12-reverse-SLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/SLL$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-dsa-dinesh-varyani/01-singlyLinkedList/SLL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/06-class_object/_1_classes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/06-class_object/_1_classes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/06-class_object/_2_object.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/06-class_object/_2_object.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/10-packages/_01_HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/10-packages/world/_01_HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/11-import/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/11-import/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/11-import/pack1/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/11-import/pack2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/14-inheritance/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/14-inheritance/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/14-inheritance/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/14-inheritance/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/14-inheritance/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/14-inheritance/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/_01_FirstProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/_01_FirstProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/_02_DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/_02_DataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/tp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mysirg/tp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/_10_bubble-sort/src/_01_bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/_10_bubble-sort/src/_01_bubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/_11_selection-sort/_01_selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/_11_selection-sort/_01_selection_sort.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ArrayListExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DSA/5-arrays/src/com/Aryan/ArrayListExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-67" />
     <option name="y" value="54" />
     <option name="width" value="1374" />
     <option name="height" value="776" />
+  </component>
+  <component name="ProjectId" id="2FlESDSv6ICyITQsfnUbw4YHPdm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
@@ -129,67 +131,50 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DSA/5-arrays" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ARYAN/COURSES/JAVA/OOPS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ARYAN\COURSES\JAVA\OOPS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ARYAN\COURSES\JAVA\OOPS\notes" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -232,9 +217,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DSA/5-arrays/src/com/Aryan/ArrayListExample.java">

@@ -23,7 +23,6 @@ public class _01_bubbleSort {
                     swapped = true;
                 }
             }
-
 //            if not swapped in first iterations that means array is already sorted then we will close function
             if(!swapped){
                 return;

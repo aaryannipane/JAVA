@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_17_maths/_17_maths.iml" filepath="$PROJECT_DIR$/_17_maths/_17_maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_18_recursion-2/_18_recursion-2.iml" filepath="$PROJECT_DIR$/_18_recursion-2/_18_recursion-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_19_recursion-3/_19_recursion-3.iml" filepath="$PROJECT_DIR$/_19_recursion-3/_19_recursion-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_20_recursion-4/_20_recursion-4.iml" filepath="$PROJECT_DIR$/_20_recursion-4/_20_recursion-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_21_merge-sort/_21_merge-sort.iml" filepath="$PROJECT_DIR$/_21_merge-sort/_21_merge-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_23_recursion_Subset_Subsequence_String_Questions/_23_recursion_Subset_Subsequence_String_Questions.iml" filepath="$PROJECT_DIR$/_23_recursion_Subset_Subsequence_String_Questions/_23_recursion_Subset_Subsequence_String_Questions.iml" />
+    </modules>
+  </component>
+</project>

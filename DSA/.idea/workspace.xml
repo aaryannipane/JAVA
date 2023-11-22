@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0ccd8ae-92af-46bb-89aa-0e7d6bdb500b" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="d0ccd8ae-92af-46bb-89aa-0e7d6bdb500b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_13_cyclic-sort/_13_cyclic-sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_14_strings_stringBuilder/_14_strings_stringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_15_patterns/_15_patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_16_rescursion/_16_rescursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_16_rescursion/src/_02_part/Q1_nto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/_17_maths.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/src/_01_odd_even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/src/_02_find_distinct_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/src/_03_ith_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/src/_04_set_ith_bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/src/_05_reset_ith_bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/src/_06_position_right_most_set_bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/src/_07_find_distinct_element_thrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17_maths/src/__01__HCF_LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_18_recursion-2/_18_recursion-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_18_recursion-2/src/Q1_nto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_18_recursion-2/src/Q2_1ton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_18_recursion-2/src/Q3_factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_18_recursion-2/src/Q4_sumOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_18_recursion-2/src/Q5_sumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_18_recursion-2/src/Q6_reverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_19_recursion-3/_19_recursion-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_19_recursion-3/src/Q1_sorted_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_19_recursion-3/src/Q2_linear_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_20_recursion-4/_20_recursion-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_20_recursion-4/src/Q1_triangle01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_20_recursion-4/src/Q2_bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_20_recursion-4/src/Q3_selectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_21_merge-sort/_21_merge-sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_21_merge-sort/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_23_recursion_Subset_Subsequence_String_Questions/_23_recursion_Subset_Subsequence_String_Questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_23_recursion_Subset_Subsequence_String_Questions/src/Q1_skip_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_23_recursion_Subset_Subsequence_String_Questions/src/Q2_skip_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_bubble-sort/src/_01_bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/_10_bubble-sort/src/_01_bubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_11_selection-sort/_01_selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/_11_selection-sort/_01_selection_sort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +53,15 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DSA$Main.ic" NAME="Main Coverage Results" MODIFIED="1637163269360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="DSA" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayListExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5-arrays/src/com/Aryan/ArrayListExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -36,11 +70,18 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-67" />
     <option name="y" value="54" />
     <option name="width" value="1374" />
     <option name="height" value="776" />
+  </component>
+  <component name="ProjectId" id="2VbLTyO9zY0mba0lVW109WzCGSe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -48,37 +89,64 @@
     </navigator>
     <panes />
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="DSA" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/downloads/demo"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Q1_skip_char">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <module name="_21_merge-sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
+    <configuration name="Q1_skip_char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_skip_char" />
+      <module name="_23_recursion_Subset_Subsequence_String_Questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1_triangle01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_triangle01" />
+      <module name="_20_recursion-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2_bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2_bubbleSort" />
+      <module name="_20_recursion-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3_selectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_selectionSort" />
+      <module name="_20_recursion-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q1_skip_char" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Q3_selectionSort" />
+        <item itemvalue="Application.Q2_bubbleSort" />
+        <item itemvalue="Application.Q1_triangle01" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -125,13 +193,16 @@
       <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="6" />
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/5-arrays/src/com/Aryan/ArrayListExample.java">
