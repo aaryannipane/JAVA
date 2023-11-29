@@ -2,50 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cc54e8-96ea-427a-94ca-5def68d1fa01" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA/.idea/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_13_cyclic-sort/_13_cyclic-sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_14_strings_stringBuilder/_14_strings_stringBuilder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_15_patterns/_15_patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_16_rescursion/_16_rescursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_16_rescursion/src/_02_part/Q1_nto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/_17_maths.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_01_odd_even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_02_find_distinct_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_03_ith_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_04_set_ith_bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_05_reset_ith_bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_06_position_right_most_set_bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/_07_find_distinct_element_thrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_17_maths/src/__01__HCF_LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/_18_recursion-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q1_nto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q2_1ton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q3_factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q4_sumOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q5_sumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_18_recursion-2/src/Q6_reverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_19_recursion-3/_19_recursion-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_19_recursion-3/src/Q1_sorted_arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_19_recursion-3/src/Q2_linear_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_20_recursion-4/_20_recursion-4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_20_recursion-4/src/Q1_triangle01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_20_recursion-4/src/Q2_bubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_20_recursion-4/src/Q3_selectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_21_merge-sort/_21_merge-sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_21_merge-sort/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_23_recursion_Subset_Subsequence_String_Questions/_23_recursion_Subset_Subsequence_String_Questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_23_recursion_Subset_Subsequence_String_Questions/src/Q1_skip_char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/_23_recursion_Subset_Subsequence_String_Questions/src/Q2_skip_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DSA/_10_bubble-sort/src/_01_bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/_10_bubble-sort/src/_01_bubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DSA/_11_selection-sort/_01_selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/_11_selection-sort/_01_selection_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/notes/010-acess-control.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/notes/overloading-compiletime-poly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/notes/overriding-runtime-poly.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

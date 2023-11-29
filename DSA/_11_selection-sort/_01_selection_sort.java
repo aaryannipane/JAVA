@@ -9,7 +9,7 @@ public class _01_selection_sort {
         System.out.println(Arrays.toString(arr));
     }
 
-    // small element to left
+    // min element to left
     static void selection_sort2(int[] arr){
         int n = arr.length;
         for(int i=0; i<=n-2; i++){
