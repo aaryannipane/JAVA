@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Code {
@@ -99,6 +98,12 @@ public class Code {
 
         // to Upper and lower
         System.out.println(username.toUpperCase()+ " " + username.toLowerCase());
+
+        // https://www.javatpoint.com/substring 
+        // Substring(begInd, endInd)
+        // A part of String is called substring. In other words, substring is a subset of another String. Java String class provides the built-in substring() method that extract a substring from the given string by using the index values passed as an argument. In case of substring() method startIndex is "inclusive" and endIndex is "exclusive".
+        System.out.println(username.substring(5));
+        System.out.println(username.substring(1, 8));
 
 
 
