@@ -38,9 +38,5 @@ public class Code {
             System.out.println(i);
         }
 
-
-        
-
-
     }
 }

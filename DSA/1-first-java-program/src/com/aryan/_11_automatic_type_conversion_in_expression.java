@@ -9,7 +9,7 @@ public class _11_automatic_type_conversion_in_expression {
         byte p = (byte) (q); // 257 % 256 = 1
         System.out.println(p);
 //      we had casted the int to byte than to the byte varible stores 1
-//      it is because it is diving the int variable value with 256 and remainder is stored
+//      it is because it is dividing the int variable value with 256 and remainder is stored
 
 //      automatic promotion
         byte a = 40;

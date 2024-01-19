@@ -5,6 +5,7 @@ import java.util.Arrays;
 //non primitive data type is also pass by value but the modification can change the original object
 public class _4_pass_by_value {
     public static void main(String[] args) {
+
         // strings are immutable
         String name = "Aryan";
         changeName(name); // this function will not change original value of name

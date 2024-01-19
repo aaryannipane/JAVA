@@ -6,8 +6,11 @@ public class Code {
 
         String username = "aryannipane";
 
+        // toCharArray() converts string to char array
+        char[] arr = username.toCharArray();
+
         // charAt() Returns the character at the specified index (position)
-        System.out.println("charAt " + username.charAt(0));
+        System.out.println("charAt " + username.charAt(2));
 
         // codePointAt() Returns the Unicode of the character at the specified index
         System.out.println("codePointAt " + username.codePointAt(0));

@@ -1,11 +1,11 @@
 package com.aryan;
-// package is the path folder name of this file where the file is present
+// package is the path folder name of this folder where the file is present
 
 //class name should be same as name of the file
 //public is used for that we can access main class from any other file, package etc
 //class contains methods and propertys
 public class _1_Main{
-    // main is reserved keyword code starts execution from main() func or method
+    // main is reserved keyword. code starts execution from main() func or method
     // static function is used to use main() without creating object of Main class
     // void is return data type
     // public is used for accessing main() from anywhere

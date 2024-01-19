@@ -30,6 +30,8 @@ public class _1_method_functions {
         num2 = in.nextInt();
         result = num1 + num2;
 
+        in.close();
+
         // return is result value that is int
         return result; // function ends from return
     }

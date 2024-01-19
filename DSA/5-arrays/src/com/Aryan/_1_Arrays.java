@@ -41,7 +41,7 @@ public class _1_Arrays {
 
         // FOR EACH LOOP
         for (int num : nos) {
-            System.out.println(nos[num]);
+            System.out.println(num);
         }
 
     }
